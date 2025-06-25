@@ -1,10 +1,11 @@
 ---
+# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "Just A Silly Guy"
-  text: "That Writes Silly Code"
-  tagline: "A collection of software engineering ramblings, tips and tricks, and other nonsense."
+  name: "Matheus Vellone"
+  text: "Knowledge center"
+  tagline: An attempt of my digital brain
   actions:
     - theme: brand
       text: Guides - I try to teach stuff
