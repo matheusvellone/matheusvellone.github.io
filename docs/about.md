@@ -13,7 +13,7 @@ const members = [
   {
     avatar: 'https://github.com/matheusvellone.png',
     name: 'Matheus Vellone',
-    title: 'SSE - Senior Silly Engineer',
+    title: 'Sometimes Staff SWE',
     links: [
       { icon: 'github', link: 'https://github.com/matheusvellone' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/matheus-vellone/' },
