@@ -141,6 +141,8 @@ loginUser(id)
 
 I’ve added a  `index2.ts`  in the  [CodeSandbox example](https://codesandbox.io/s/typescript-playground-export-forked-9pmgd8?file=%2Findex2.ts)  with more practical use cases I have in my project which might be useful for you too.
 
+---
+
 And with all of this, we can now rest assured that we won’t see any error from:
 -   Missing prefix IDs
 -   Lack of characters or extra ones
